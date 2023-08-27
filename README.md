@@ -9,9 +9,25 @@ Within the "Exercises" folder, there will be subfolders for each learning part. 
  ```
 
 ### Submitted parts
+This table provides a quick visual representation of the status of various parts, making it easy to track which parts have been successfully submitted and which ones are still pending completion.
+
 | Part | Completed |
 |:--------:|:---------:|
 |    1     |   &#9745;  |
 |    2     |   &#9744;  |
-|    3     |   &#9745;  |
+|    3     |  &#9744;   |
 |    4     |   &#9744;  |
+|    5     |   &#9744;  |
+|    6     |   &#9744;  |
+|    7     |   &#9744;  |
+|    8     |   &#9744;  |
+|    9     |   &#9744;  |
+|    10     |   &#9744;  |
+|    11     |   &#9744;  |
+|    12     |   &#9744;  |
+
+- Part: This column lists the identification numbers of the parts that have been assigned within the project or assignment.
+- Completed: This column indicates whether each part has been completed or not. A checked checkbox (✅) signifies that a part has been completed and submitted, while an unchecked checkbox (⬛) indicates that the part is yet to be completed or submitted.
+
+
+
