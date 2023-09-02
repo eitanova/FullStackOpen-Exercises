@@ -13,7 +13,8 @@ This table provides a quick visual representation of the status of various parts
 
 | Part | Completed |
 |:--------:|:---------:|
-|    1     |   &#9745;  |
+|    0     |   &#9745;  |
+|    1     |   &#9744;  |
 |    2     |   &#9744;  |
 |    3     |  &#9744;   |
 |    4     |   &#9744;  |
